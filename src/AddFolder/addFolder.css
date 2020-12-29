@@ -1,0 +1,10 @@
+.add-folder-form {
+    background-color: #102541;
+    color: #cacaca;
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 500px;
+    padding: 10px;
+}
